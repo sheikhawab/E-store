@@ -71,7 +71,7 @@ export default function Footer() {
         </div>
         <div className="text-xs text-gray-600">
           <p className="font-semibold">100% Secure & Trusted Payment</p>
-          <p>Need help? Call us at +0203-980-14-79 for any assistance required.</p>
+          <p>Need help? Call us at +966546343458 for any assistance required.</p>
           <div className="mt-1 flex gap-2 justify-center text-2xl text-gray-700">
             <span>💳</span><span>💳</span><span>💳</span><span>💳</span>
           </div>

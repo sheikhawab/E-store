@@ -14,6 +14,7 @@ export default StorePage
 
 export const ProductListing = async () => {
   const data = await getProducts();
+  console.log(data, "awab kese ho 3");
   return <div className='col-span-4 grid grid-cols-3'>
     {
       data.map(

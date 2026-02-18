@@ -7,6 +7,14 @@ const nextConfig = {
         },
          {
         protocol: 'https',
+        hostname: 'fakestoreapi.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'fakestoreapi.in',
+      },
+         {
+        protocol: 'https',
         hostname: 'encrypted-tbn0.gstatic.com', // ✅ Added this line
       },
       {
